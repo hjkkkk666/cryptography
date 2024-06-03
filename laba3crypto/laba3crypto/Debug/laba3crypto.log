@@ -1,0 +1,4 @@
+﻿  laba3crypto.cpp
+C:\Users\hjkkk\source\repos\laba3crypto\laba3crypto\laba3crypto.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hjkkk\source\repos\laba3crypto\laba3crypto\laba3crypto.cpp(68,23): warning C4018: <: несоответствие типов со знаком и без знака
+  laba3crypto.vcxproj -> C:\Users\hjkkk\source\repos\laba3crypto\Debug\laba3crypto.exe
